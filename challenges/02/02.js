@@ -1,6 +1,6 @@
 function listGifts(letter) {
     
-    const letterArrayFiltered = letter.trim().split(' ').filter(item => !item.trim().startsWith('_'));
+    const letterArrayFiltered = letter.trim().split(' ').filter(item => !item.startsWith('_'));
 
     return letterArrayFiltered.reduce( (list, gift) => {
         if( !list[gift] ) list[gift] = 0;
