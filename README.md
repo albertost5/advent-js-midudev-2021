@@ -7,8 +7,8 @@ Soluciones a los retos propuestos en [adventJs.dev](https://advent.dev) - 2021.
 | Día | Título                                                            | Dificultad  |                                       |
 | --- | ----------------------------------------------------------------- | ----------- | ------------------------------------- |
 | 01  | [Contando ovejas para dormir](challenges/01/README.md)            | Fácil       | [Ver solución](./challenges/01/01.js) |
-| 02  | [¡Ayuda al elfo a listar los regalos!](challenges/02/README.md)   | Fácil       | [Ver solución](./challenges/01/02.js) |
-| 03  | [El Grinch quiere fastidiar la Navidad](challenges/03/README.md)  | Normal      |  |
+| 02  | [¡Ayuda al elfo a listar los regalos!](challenges/02/README.md)   | Fácil       | [Ver solución](./challenges/02/02.js) |
+| 03  | [El Grinch quiere fastidiar la Navidad](challenges/03/README.md)  | Normal      | [Ver solución](./challenges/03/03.js) |
 | 04  | [¡Es hora de poner la navidad en casa!](challenges/04/README.md)  | Normal      |  |
 | 05  | [Contando los días para los regalos](challenges/05/README.md)     | Fácil       |  |
 | 06  | [Rematando los exámenes finales](challenges/06/README.md)         | Normal      |  |
