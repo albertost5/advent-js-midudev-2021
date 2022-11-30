@@ -18,7 +18,7 @@ Soluciones a los retos propuestos en [adventJs.dev](https://advent.dev) - 2021.
 | 10  | [La máquina de cambio](challenges/10/README.md)                   | Difícil     |  |
 | 11  | [¿Vale la pena la tarjeta de...](challenges/11/README.md)         | Normal      |  |
 | 12  | [La ruta perfecta para dejar los regalos](challenges/12/README.md)| Difícil     |  |
-| 13  | [Envuelve regalos con asteriscos](challenges/13/README.md)        | Fácil       |  |
+| 13  | [Envuelve regalos con asteriscos](challenges/13/README.md)        | Fácil       | [Ver solución](./challenges/13/13.js) |
 | 14  | [En busca del reno perdido](challenges/14/README.md)              | Normal      |  |
 | 15  | [El salto perfecto](challenges/15/README.md)                      | Normal      |  |
 | 16  | [Descifrando los números...](challenges/16/README.md)             | Fácil       |  |
