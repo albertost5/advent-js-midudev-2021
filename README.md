@@ -21,9 +21,9 @@ Soluciones a los retos propuestos en [adventJs.dev](https://advent.dev) - 2021.
 | 13  | [Envuelve regalos con asteriscos](challenges/13/README.md)        | Fácil       | [Ver solución](./challenges/13/13.js) |
 | 14  | [En busca del reno perdido](challenges/14/README.md)              | Normal      |  |
 | 15  | [El salto perfecto](challenges/15/README.md)                      | Normal      |  |
-| 16  | [Descifrando los números...](challenges/16/README.md)             | Fácil       |  |
+| 16  | [Descifrando los números...](challenges/16/README.md)             | Fácil       | [Ver solución](./challenges/16/16.js) | 
 | 17  | [La locura de enviar paquetes...](challenges/17/README.md)        | Difícil     |  |
-| 18  | [El sistema operativo de Santa Claus](challenges/18/README.md)    | Fácil       |  |
+| 18  | [El sistema operativo de Santa Claus](challenges/18/README.md)    | Fácil       | [Ver solución](./challenges/18/18.js) | 
 | 19  | [¿Qué deberíamos aprender en Platzi?](challenges/19/README.md)    | Normal      |  |
 | 20  | [¿Una carta de pangramas? ¡QUÉ!](challenges/20/README.md)         | Fácil       |  |
 | 21  | [La ruta con los regalos](challenges/21/README.md)                | Difícil     |  |
