@@ -26,7 +26,7 @@ Soluciones a los retos propuestos en [adventJs.dev](https://advent.dev) - 2021.
 | 18  | [El sistema operativo de Santa Claus](challenges/18/README.md)    | <img src="https://img.shields.io/badge/-Fácil-brightgreen?style=for-the-badge">       | [Ver solución](./challenges/18/18.js) | 
 | 19  | [¿Qué deberíamos aprender en Platzi?](challenges/19/README.md)    | <img src="https://img.shields.io/badge/-Normal-yellow?style=for-the-badge">      |  |
 | 20  | [¿Una carta de pangramas? ¡QUÉ!](challenges/20/README.md)         | <img src="https://img.shields.io/badge/-Fácil-brightgreen?style=for-the-badge">       |  |
-| 21  | [La ruta con los regalos](challenges/21/README.md)                | Difícil     |  |
+| 21  | [La ruta con los regalos](challenges/21/README.md)                | <img src="https://img.shields.io/badge/-Difícil-red?style=for-the-badge">     |  |
 | 22  | [¿Cuantos adornos necesita el árbol?](challenges/22/README.md)    | <img src="https://img.shields.io/badge/-Normal-yellow?style=for-the-badge">      |  |
 | 23  | [¿Puedes reconfigurar las fábricas...](challenges/23/README.md)   | <img src="https://img.shields.io/badge/-Muy%20Difícil-red?style=for-the-badge"> |  |
 | 24  | [Comparando árboles de Navidad](challenges/24/README.md)          | <img src="https://img.shields.io/badge/-Normal-yellow?style=for-the-badge">      |  |
